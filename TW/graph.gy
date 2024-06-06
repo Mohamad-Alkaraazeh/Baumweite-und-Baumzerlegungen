@@ -1,0 +1,16 @@
+graph "graph" {
+	node [shape=circle]
+	c [fillcolor=darkgreen style=filled]
+	b [fillcolor=green style=filled]
+	d [fillcolor=green style=filled]
+	a [fillcolor=darkgreen style=filled]
+	e [fillcolor=maroon style=filled]
+	f [fillcolor=darkgreen style=filled]
+	a -- b
+	a -- d
+	b -- c
+	c -- d
+	b -- e
+	e -- c
+	e -- f
+}

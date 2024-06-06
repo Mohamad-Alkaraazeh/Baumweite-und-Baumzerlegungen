@@ -1,0 +1,16 @@
+graph "graph" {
+	node [shape=circle]
+	root=cbd
+	cbd -- cbd1
+	cbd -- cbd2
+	abd -- bd2
+	ebc -- ec1
+	ef -- f1
+	cbd1 -- cb1
+	cbd2 -- bd1
+	cb1 -- ebc
+	ec1 -- e1
+	e1 -- ef
+	bd1 -- abd
+	bd2 -- d1
+}
