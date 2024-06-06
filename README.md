@@ -9,7 +9,7 @@ Das Programm ist grundsätzlich in zwölf Dateien aufgeteilt.
 + `algorithm.py`, `dec1.py`, `Alt-max-ind-set.py`, `G-coloring-BT.py` und `validation.py` bilden die Hauptkomponenten der Arbeit.
  
 ---
-### > **⬇️ Installation ** Verwendung des Programmes
+### ⬇️ Verwendung des Programmes
 Zur Ausführung des Programms sind keine besonderen Installationen erforderlich. 
 - Laden Sie einfach den Code herunter und öffnen Sie ihn mit einem Code-Editor, wie z.B. PyCharm. Die notwendigen Bibliotheken, wie PyQt5, Graphviz und numpy, können direkt in PyCharm heruntergeladen werden.
 - Nach dem Öffnen des Projekts führen Sie bitte die Datei 'Window1.py' aus.
